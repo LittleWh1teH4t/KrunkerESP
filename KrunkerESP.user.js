@@ -7,7 +7,7 @@
 // @require      http://code.jquery.com/jquery-3.3.1.min.js
 // @require      https://code.jquery.com/ui/1.12.0/jquery-ui.min.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.0/jquery-confirm.min.js
-// @downloadURL  https://github.com/THEGUY3ds/KRUNKERPLUS/raw/master/krunkerplus.user.js
+// @downloadURL  https://github.com/RaptorDoesStuff/KrunkerESP/blob/master/KrunkerESP.user.js
 // @include      /^(https?:\/\/)?(www\.)?(.+)krunker\.io(|\/|\/\?(server|party|game)=.+)$/
 // @icon         https://www.google.com/s2/favicons?domain=krunker.io
 // @grant        none

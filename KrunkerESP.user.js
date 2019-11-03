@@ -13,9 +13,9 @@
 // @grant        none
 // ==/UserScript==
 //Tells u if hack is working.
-alert("Your ESP hack worked lol now just enable it on bottom of screen")
+alert("Your ESP hack worked lol now just enable it on bottom of screen. hahahha you have the best krunker hack lol xd :D")
 //Hub change
-document.title = "Krunker Is Now Hacked Lel";
+document.title = "Krunker Is Now Hacked Lol";
 document.getElementById("instructions").style.color = "Red";
 document.getElementById('instructions').innerHTML = 'Loading Krunker plus by OVERHAX | THEGUY3ds';
 document.getElementById('modVote').innerHTML = 'KRUNKERPLUS+';
